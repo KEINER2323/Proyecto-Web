@@ -5,8 +5,15 @@ body {
 }
 
 h1 {
-    color: #333333;
-    font-size: 24px;
+    color: #28a745; /* Verde bonito */
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-family: 'Arial', sans-serif;
+    padding: 10px;
+    border-bottom: 3px solid #1e7e34;
+    display: inline-block;
 }
 
 p {
